@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kosoko F.S.B.P\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kosoko F.S.B.P\\.nuget\\packages"
+    ]
+  }
+}
